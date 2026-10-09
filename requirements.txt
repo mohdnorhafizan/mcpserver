@@ -1,0 +1,4 @@
+mcp
+sqlalchemy>=2.0,<3.0
+psycopg[binary]
+python-dotenv
